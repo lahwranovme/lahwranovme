@@ -1,4 +1,2 @@
-
-- ![Stats](https://github-readme-stats.vercel.app/api?username=Lahwranov&show_icons=true&theme=dark)
-
-- ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lahwranov&layout=compact&theme=dark)
+# Hey I'm lahwranovme 
+-# You can also call me "Lahwran", "Lahwranov" or just don’t call me.
